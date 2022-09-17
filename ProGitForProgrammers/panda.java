@@ -6,4 +6,8 @@ public class panda {
   public int addition(int x, int y) {
     return x + y;
   }
+
+  public int soustraction(int x, int y) {
+    return x - y;
+  }
 }
